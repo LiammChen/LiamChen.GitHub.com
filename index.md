@@ -14,6 +14,17 @@
   </tr>
 </table>
 
+<table border="0">
+  <tr>
+    <td width="75%">
+      <h1>语言能力：大学英语四六级，雅思7.0。英语沟通能力良好，能够熟练阅读外文文献</h1>
+      <p><b>软件：掌握MATLAB、Multisim、Protel、HFSS、Eclipse、Visual Studio等开发软件的使用</b></p>
+      <p><b>能够熟练使用office系列办公软件</b></p>
+      <p><b>熟悉C\C++，了解Java、Verilog等</b></p>
+    </td>
+  </tr>
+</table>
+
 ### 状态
 1.毕业论文
 2.秋招
