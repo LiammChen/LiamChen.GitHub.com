@@ -1,37 +1,25 @@
-## Welcome to GitHub Pages
+###基本信息
+####姓名：陈连
+####性别：男
+####年龄：22
+####学历：硕士
+####学校：四川大学（本科）、布里斯托大学（硕士）
+####邮箱：769273900@qq.com
 
-You can use the [editor on GitHub](https://github.com/LiammChen/LiamChen.GitHub.com/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+###状态
+1.毕业论文
+2.秋招
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/LiammChen/LiamChen.GitHub.com/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+###项目经验
+####四川大学（2016.9——2020.6）
+-**基于DSP的带噪语音滤波降噪处理**-
+项目描述：课程项目，采集特定的语音以及噪声并进行整合，分别利用MATLAB和CCS集成开发环境对带噪语音进行滤波降噪处理，计算并对比两者前后信噪比的改善程度。
+-**模拟电路及数字电路实现任意功能系统**-
+项目描述：课程项目，利用Multisim设计并仿真一个任意功能的模拟电路和数字电路系统，生成网表并导入Protel进行PCB设计。
+-**900MHz宽波束水平极化天线设计**-
+####布里斯托大学（2020.9——2022.2）
+项目描述：毕业设计，设计了一款采用嵌入式馈电的矩形微带天线，通过同轴馈电作为中心馈电方式建立了一分二的并联馈电网络的二元线极化矩形微带天线阵列。
+-**通过唾液快速检测登革热设备的项目设计**-
+项目描述：课程项目：设计一种通过唾液快速检测登革热的医疗设备，并从医疗保健需求和影响、技术层面、创新、市场开发四个方面来分析该项目的发展，做出项目计划。
+-**计算基因组学与生物信息学课程作业**-
+项目描述：课程项目，利用GenBank、Taxonomy Browser、BLAST 和PubMed等在线数据库，通过MATLAB编程执行选定物种的生物信息学研究。
