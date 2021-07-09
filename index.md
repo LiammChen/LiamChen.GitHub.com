@@ -8,9 +8,6 @@
       <p><b>学校：四川大学（本科）、布里斯托大学（硕士）</b></p>
       <p><b>邮箱：769273900@qq.com</b></p>
     </td>
-    <td width="25%">
-      <img src="/Me.jpg" width="100%">      
-    </td>
   </tr>
 </table>
 
